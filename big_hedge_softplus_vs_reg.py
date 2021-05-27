@@ -1,10 +1,15 @@
-Blach#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 Created on Wed Feb 24 11:36:31 2021
 
 @author: MarcHansen
 """
+
+
+#This is a hedge experiment of pol. reg vs. Softplus reg.
+# We do not use this in the thesis
+
 from scipy.stats import norm
 import Functions as fl
 from numpy import random
