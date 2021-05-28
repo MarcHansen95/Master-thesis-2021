@@ -6,3 +6,5 @@ Many of the files do the same thing, with slight differences.
 The relevant library has to be implementet and I use an Anaconda environment. 
 
 Note that the files with "BS" or "Black Scholes" in the name, is about Black Scholes models, which only occur in the Appendix.
+
+The two Jupyter notebook are files are mainly created by Savine and Huge. We have used theire network, but changed things, to form our experiment. 
